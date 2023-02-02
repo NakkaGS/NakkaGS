@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @NakkaGS
 ### [My Linkedin](https://www.linkedin.com/in/gabriel-nakata/)
 - 👀 I’m interested in Frontend/Backend and Industrial Automation
-- 🌱 I’m currently learning (Laravel/Symfony/React+Redux+Django)
+- 🌱 I’m currently learning (NodeJs/React+Redux/Django)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakkags&label=Profile%20views&color=0e75b6&style=flat" alt="nakkags" /> </p>
 
