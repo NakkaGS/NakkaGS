@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @NakkaGS
 #### [My Linkedin](https://www.linkedin.com/in/gabriel-nakata/)
-#### [My Personal Website / Portfolio](https://www.gabrielnakata.de/)
+#### [My Personal Website / Portfolio](https://www.gabrielnakata.com.br/)
 - 👀 I’m interested in Frontend/Backend and Industrial Automation (Siemens TIA Portal)
 - 🖖 I’m good in HTML/CSS, ReactJS and Figma (Design)
 - 🌱 I’m currently learning: Backend: Django, NodeJS with Express
